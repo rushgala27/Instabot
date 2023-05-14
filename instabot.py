@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 driver = webdriver.Firefox()
 
-users = ['darshikamani']
+users = ['Username']
 message = "This message is sent using Instagram Bot."
 
 
